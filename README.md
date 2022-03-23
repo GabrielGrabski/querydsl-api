@@ -4,4 +4,4 @@
 
 ## SECURITY?
 
-> * Spring security was not implemented because the purpose of this project was only the dsl query
+> * Spring security was not implemented because the purpose of this project was only the query dsl
